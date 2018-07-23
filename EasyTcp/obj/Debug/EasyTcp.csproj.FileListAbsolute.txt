@@ -1,0 +1,6 @@
+F:\programozás\c#\EasyTcp\EasyTcp\bin\Debug\EasyTcp.dll
+F:\programozás\c#\EasyTcp\EasyTcp\bin\Debug\EasyTcp.pdb
+F:\programozás\c#\EasyTcp\EasyTcp\obj\Debug\EasyTcp.csprojAssemblyReference.cache
+F:\programozás\c#\EasyTcp\EasyTcp\obj\Debug\EasyTcp.csproj.CoreCompileInputs.cache
+F:\programozás\c#\EasyTcp\EasyTcp\obj\Debug\EasyTcp.dll
+F:\programozás\c#\EasyTcp\EasyTcp\obj\Debug\EasyTcp.pdb
